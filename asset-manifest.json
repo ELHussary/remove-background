@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ELHussary/remove-background/static/css/main.247decd3.css",
+    "main.js": "/ELHussary/remove-background/static/js/main.c56575d2.js",
+    "static/js/787.2ea730ba.chunk.js": "/ELHussary/remove-background/static/js/787.2ea730ba.chunk.js",
+    "index.html": "/ELHussary/remove-background/index.html",
+    "main.247decd3.css.map": "/ELHussary/remove-background/static/css/main.247decd3.css.map",
+    "main.c56575d2.js.map": "/ELHussary/remove-background/static/js/main.c56575d2.js.map",
+    "787.2ea730ba.chunk.js.map": "/ELHussary/remove-background/static/js/787.2ea730ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.247decd3.css",
+    "static/js/main.c56575d2.js"
+  ]
+}
